@@ -1,0 +1,366 @@
+gene_ID	Human-Readable-Description
+g1	Belongs to the protein kinase superfamily
+g10	Cathepsin B-like protease 2
+g100	Flowering time control protein FCA
+g101	WRKY transcription factor 23
+g102	Retrovirus-related Pol polyprotein from transposon RE2
+g103	Unknown protein
+g104	Bromodomain-containing protein
+g105	Stachyose synthase
+g106	Capsid protein
+g107	Enzymatic polyprotein
+g108	rRNA 2'-O-methyltransferase fibrillarin 2
+g109	transposition, RNA-mediated
+g11	Unknown protein
+g110	Retrovirus-related Pol polyprotein from transposon 297
+g111	Retrovirus-related Pol polyprotein from transposon 297
+g112	rRNA 2'-O-methyltransferase fibrillarin 2
+g113	Galactinol--sucrose galactosyltransferase
+g114	Unknown protein
+g115	Galactinol--sucrose galactosyltransferase
+g116	Plant mobile domain
+g117	Transposon Tf2-9 polyprotein
+g118	Retrotransposon gag protein
+g119	MDIS1-interacting receptor like kinase 2
+g12	Zinc finger protein 7
+g120	Chloride intracellular channel protein 6
+g121	Nodal modulator 1
+g122	ATP-dependent RNA helicase DDX42
+g123	Receptor-like cytoplasmic kinase 185
+g124	INO80 complex subunit B
+g125	Protein FAR1-RELATED SEQUENCE 5
+g126	Protein FAR1-RELATED SEQUENCE 5
+g127	Protein FAR1-RELATED SEQUENCE 3
+g128	Retrovirus-related Pol polyprotein from transposon RE1
+g129	WRKY transcription factor 22
+g13	Cathepsin B-like protease 2
+g130	Unknown protein
+g131	Retrovirus-related Pol polyprotein from transposon RE1
+g132	Unknown protein
+g133	Copper-transporting ATPase HMA5
+g134	Retrovirus-related Pol polyprotein from transposon RE2
+g135	Unknown protein
+g136	DELLA protein RGL2
+g137	Unknown protein
+g138	Histone-lysine N-methyltransferase EZ1
+g139	Protein trichome birefringence-like 6
+g14	FBD-associated F-box protein At4g10400
+g140	Acylamino-acid-releasing enzyme
+g141	Cytochrome c oxidase subunit 5C-2
+g142	Acylamino-acid-releasing enzyme
+g143	Unknown protein
+g144	Calvin cycle protein CP12-2, chloroplastic
+g145	ABC transporter G family member 24
+g146	bZIP transcription factor 53
+g147	Vacuolar protein sorting-associated protein 51 homolog
+g148	DNA replication licensing factor MCM7
+g149	DNA mismatch repair protein MSH6
+g15	Inositol hexakisphosphate
+g150	E3 ubiquitin-protein ligase MARCHF6
+g151	Universal stress protein A-like protein
+g152	Casein kinase 1
+g153	Universal stress protein A-like protein
+g154	Unknown protein
+g155	NADH-ubiquinone oxidoreductase chain
+g156	Retrovirus-related Pol polyprotein from transposon RE1
+g157	Unknown protein
+g158	Unknown protein
+g159	Multidrug resistance protein ABC transporter family protein
+g16	Glucose-1-phosphate adenylyltransferase large subunit 1, chloroplastic
+g160	Single-stranded DNA binding protein Ssb
+g161	Beta-D-xylosidase 1
+g162	Replication protein A 70 kDa DNA-binding subunit C
+g163	DnaJ heat shock amino-terminal domain protein
+g164	DnaJ heat shock amino-terminal domain protein
+g165	DnaJ homolog subfamily B member 11
+g166	Unknown protein
+g167	Replication protein A 70 kDa DNA-binding subunit B
+g168	Transcription factor MYB11
+g169	Cotton fibre expressed protein
+g17	Expansin-A29
+g170	Unknown protein
+g171	Unknown protein
+g172	Protein NDR1
+g173	Zinc finger CCCH domain-containing protein 1
+g174	Unknown protein
+g175	TSET complex member tstF
+g176	Unknown protein
+g177	gag-polypeptide of LTR copia-type
+g178	Retrovirus-related Pol polyprotein from transposon RE1
+g179	Ribonuclease H protein
+g18	Peptidyl-prolyl cis-trans isomerase, chloroplastic
+g180	Cathepsin B-like protease 2
+g181	Cathepsin B-like protease 2
+g182	FBD-associated F-box protein At3g52670
+g183	LINE-1 retrotransposable element ORF2 protein
+g184	Inositol hexakisphosphate
+g185	Glucose-1-phosphate adenylyltransferase large subunit 1, chloroplastic
+g186	Expansin-A29
+g187	Peptidyl-prolyl cis-trans isomerase, chloroplastic
+g188	Pectin acetylesterase 3
+g189	Unknown protein
+g19	Pectin acetylesterase 3
+g190	strictosidine synthase activity
+g191	Unknown protein
+g192	Unknown protein
+g193	Unknown protein
+g194	Transcription factor MYB61
+g195	Charged multivesicular body protein 7
+g196	Transcription factor PIF3
+g197	Short-chain dehydrogenase reductase 3b
+g198	Basic endochitinase A
+g199	WRKY transcription factor 42
+g2	Pectinesterase/pectinesterase inhibitor PPE8B
+g20	Unknown protein
+g200	Polygalacturonase
+g201	LINE-1 retrotransposable element ORF2 protein
+g202	Unknown protein
+g203	Bifunctional glutamate/proline--tRNA ligase
+g204	Protein transport protein Sec23A
+g205	PSME3-interacting protein
+g206	Acyl transferase 5
+g207	Retrovirus-related Pol polyprotein from transposon TNT 1-94
+g208	Retrovirus-related Pol polyprotein from transposon RE1
+g21	Unknown protein
+g210	Two-pore potassium channel 5
+g211	Protein RADIALIS-like 6
+g212	Peptide chain release factor 1, mitochondrial
+g213	Pectinesterase 4
+g214	Chaperone protein DnaJ
+g215	Pectinesterase 4
+g216	Pectinesterase 4
+g217	Meiosis regulator and mRNA stability factor 1
+g218	sugar phosphate phosphate translocator
+g219	Unknown protein
+g22	Unknown protein
+g220	Unknown protein
+g221	Retrovirus-related Pol polyprotein from transposon RE1
+g222	Squamosa promoter-binding-like protein 1
+g223	S-adenosylmethionine synthase
+g224	Unknown protein
+g225	Unknown protein
+g226	WD repeat-containing protein 6
+g227	Retrovirus-related Pol polyprotein from transposon RE1
+g228	Retrovirus-related Pol polyprotein from transposon RE1
+g229	WD repeat-containing protein 6
+g23	Unknown protein
+g230	Leghemoglobin
+g231	E3 ubiquitin-protein ligase ZNF598
+g232	Retrovirus-related Pol polyprotein from transposon TNT 1-94
+g233	Short-chain dehydrogenase reductase 3b
+g234	Polysaccharide lyase family 4, domain III
+g235	Short-chain dehydrogenase reductase 3b
+g236	Short-chain dehydrogenase reductase 3b
+g237	Short-chain dehydrogenase reductase 3b
+g238	Short-chain dehydrogenase reductase 3b
+g239	Phosphatidylinositol/phosphatidylcholine transfer protein SFH8
+g24	Transcription factor MYB86
+g240	Shaggy-related protein kinase alpha
+g241	Polygalacturonase g48100
+g242	Boron transporter 1
+g243	Retrovirus-related Pol polyprotein from transposon TNT 1-94
+g244	Unknown protein
+g245	Ribonuclease H protein
+g246	Nitrogen regulatory protein P-II homolog
+g247	Nitrogen regulatory protein P-II homolog
+g248	Belongs to the class I-like SAM-binding methyltransferase superfamily
+g249	Retrovirus-related Pol polyprotein from transposon RE1
+g25	Charged multivesicular body protein 7
+g250	TMV resistance protein N-like
+g251	Unknown protein
+g252	Unknown protein
+g253	ADP-ribosylation factor
+g254	Galactinol synthase 1
+g255	Unknown protein
+g256	Unknown protein
+g257	Unknown protein
+g258	SWR1-complex protein 4
+g259	Pentatricopeptide repeat-containing protein
+g26	Transcription factor PIF3
+g260	Pentatricopeptide repeat-containing protein At4g02750
+g261	NifU-like protein 1, chloroplastic
+g262	Long chain acyl-CoA synthetase 1
+g263	Unknown protein
+g264	F-box/LRR-repeat protein At3g26922
+g265	Unknown protein
+g266	LINE-1 retrotransposable element ORF2 protein
+g267	LINE-1 retrotransposable element ORF2 protein
+g268	Unknown protein
+g269	zinc finger
+g27	Unknown protein
+g270	Protein FAR1-RELATED SEQUENCE 5
+g271	Flowering time control protein FCA
+g272	WRKY transcription factor 23
+g273	Stachyose synthase
+g274	rRNA 2'-O-methyltransferase fibrillarin 2
+g275	Retrovirus-related Pol polyprotein from transposon 297
+g276	Retrovirus-related Pol polyprotein from transposon 297
+g277	Galactinol--sucrose galactosyltransferase
+g278	Chloride intracellular channel protein 6
+g279	Retrotransposon gag protein
+g28	Plant mobile domain
+g280	Retrovirus-related Pol polyprotein from transposon 297
+g281	Retrovirus-related Pol polyprotein from transposon RE2
+g282	Nodal modulator 1
+g283	ATP-dependent RNA helicase DDX42
+g284	Unknown protein
+g285	Receptor-like serine/threonine-protein kinase ALE2
+g286	INO80 complex subunit B
+g287	Protein FAR1-RELATED SEQUENCE 5
+g288	Unknown protein
+g289	Protein FAR1-RELATED SEQUENCE 6
+g29	Unknown protein
+g290	WRKY transcription factor 22
+g291	Unknown protein
+g292	DELLA protein RGL2
+g293	Unknown protein
+g294	Unknown protein
+g295	Histone-lysine N-methyltransferase MEDEA
+g296	Belongs to the helicase family
+g297	Receptor-like protein kinase FERONIA
+g298	Unknown protein
+g299	Unknown protein
+g3	F-box/LRR-repeat protein At3g26922
+g30	Pro-Pol polyprotein
+g300	Protein FAR1-RELATED SEQUENCE 11
+g301	F-box/LRR-repeat protein 13
+g302	DELLA protein RGL2
+g303	Histone-lysine N-methyltransferase EZ1
+g304	Protein trichome birefringence-like 6
+g305	Acylamino-acid-releasing enzyme
+g306	Cytochrome c oxidase subunit 5C-2
+g307	Dipeptidyl aminopeptidase BIII
+g308	Calvin cycle protein CP12-2, chloroplastic
+g309	bZIP transcription factor 53
+g31	transposition, RNA-mediated
+g310	Vacuolar protein sorting-associated protein 51 homolog
+g311	DNA replication licensing factor MCM7
+g312	DNA mismatch repair protein MSH6
+g313	E3 ubiquitin-protein ligase MARCHF6
+g314	Unknown protein
+g315	Casein kinase 1
+g316	Unknown protein
+g317	Retrovirus-related Pol polyprotein from transposon 412
+g318	Trafficking protein particle complex subunit
+g319	Universal stress protein A-like protein
+g32	transposition, RNA-mediated
+g320	Unknown protein
+g321	Unknown protein
+g322	Unknown protein
+g323	WD repeat-containing protein 6
+g324	Unknown protein
+g325	Casein kinase 1
+g326	Casein kinase 1
+g327	Unknown protein
+g328	Retrovirus-related Pol polyprotein from transposon 412
+g329	Trafficking protein particle complex subunit
+g33	Retrotransposon gag protein
+g330	Universal stress protein A-like protein
+g331	Unknown protein
+g332	Unknown protein
+g333	WD repeat-containing protein 6
+g334	Unknown protein
+g335	Casein kinase 1
+g336	Casein kinase 1
+g337	Unknown protein
+g338	Retrovirus-related Pol polyprotein from transposon 412
+g339	Trafficking protein particle complex subunit
+g34	Basic endochitinase A
+g340	Universal stress protein A-like protein
+g341	Unknown protein
+g342	Unknown protein
+g343	Unknown protein
+g344	Multidrug resistance protein ABC transporter family protein
+g345	Single-stranded DNA binding protein Ssb
+g346	Transposon Tf2-9 polyprotein
+g347	Unknown protein
+g348	Beta-D-xylosidase 1
+g349	Unknown protein
+g35	Unknown protein
+g350	DnaJ heat shock amino-terminal domain protein
+g351	Unknown protein
+g352	DnaJ homolog subfamily B member 11
+g353	Unknown protein
+g354	Unknown protein
+g355	Transcription factor MYB111
+g356	Protein MAIN-LIKE 2
+g357	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+g358	Cotton fibre expressed protein
+g359	Unknown protein
+g36	Pentatricopeptide repeat-containing protein At5g47360
+g360	Unknown protein
+g361	Protein NDR1
+g362	Zinc finger CCCH domain-containing protein 1
+g363	Unknown protein
+g364	Unknown protein
+g365	Unknown protein
+g366	Transposon Tf2-8 polyprotein
+g37	Polygalacturonase
+g38	Bifunctional glutamate/proline--tRNA ligase
+g39	Protein transport protein Sec23A
+g4	Unknown protein
+g40	PSME3-interacting protein
+g41	Acyl transferase 4
+g42	Two-pore potassium channel 5
+g43	Protein RADIALIS-like 6
+g44	Peptide chain release factor 1, mitochondrial
+g45	Unknown protein
+g46	Pectinesterase 4
+g47	Chaperone protein DnaJ
+g48	Pectinesterase 4
+g49	Pectinesterase 4
+g5	Retrovirus-related Pol polyprotein from transposon TNT 1-94
+g50	Meiosis regulator and mRNA stability factor 1
+g51	sugar phosphate phosphate translocator
+g52	Zinc finger protein 2
+g53	Zinc finger protein 2
+g54	Squamosa promoter-binding-like protein 1
+g55	S-adenosylmethionine synthase
+g56	WD repeat-containing protein 6
+g57	Leghemoglobin
+g58	E3 ubiquitin-protein ligase ZNF598
+g59	Short-chain dehydrogenase reductase 3b
+g6	Transmembrane protein 184B
+g60	Retrovirus-related Pol polyprotein from transposon RE1
+g61	Transposon Tf2-6 polyprotein
+g62	Unknown protein
+g63	Gag polyprotein
+g64	Retrotransposon gag protein
+g65	Unknown protein
+g66	Unknown protein
+g67	Transposon Tf2-6 polyprotein
+g68	Unknown protein
+g69	Short-chain dehydrogenase reductase 3b
+g7	DEAD-box ATP-dependent RNA helicase 3, chloroplastic
+g70	Short-chain dehydrogenase reductase 3b
+g71	protein serine/threonine kinase activity
+g72	Short-chain dehydrogenase reductase 3b
+g73	Short-chain dehydrogenase reductase 3b
+g74	Unknown protein
+g75	Ribonuclease H protein
+g76	Short-chain dehydrogenase reductase 3b
+g77	Shaggy-related protein kinase alpha
+g78	Polygalacturonase g48100
+g79	Boron transporter 1
+g8	Pentatricopeptide repeat-containing protein g33350
+g80	Unknown protein
+g81	Retrotransposon gag protein
+g82	transposition, RNA-mediated
+g83	Transposon Tf2-9 polyprotein
+g84	40S ribosomal protein S14
+g85	Unknown protein
+g86	Unknown protein
+g87	Nitrogen regulatory protein P-II homolog
+g88	ADP-ribosylation factor
+g89	zinc finger CCCH domain-containing protein
+g9	TSET complex member tstF
+g90	Galactinol synthase 1
+g91	Unknown protein
+g92	F-box/LRR-repeat protein At3g26922
+g93	SWR1-complex protein 4
+g94	Pentatricopeptide repeat-containing protein g62260, mitochondrial
+g95	NifU-like protein 1, chloroplastic
+g96	Long chain acyl-CoA synthetase 1
+g97	Unknown protein
+g98	Unknown protein
+g99	zinc finger
