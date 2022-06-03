@@ -1,0 +1,13 @@
+Sample;Condition;Genotype;Replicate
+S10_1_1;Control;S10;1
+S10_1_2;Control;S10;2
+S10_1_3;Control;S10;3
+S10_2_1;Treatment;S10;1
+S10_2_2;Treatment;S10;2
+S10_2_3;Treatment;S10;3
+TI_1_1;Control;Tienshan;1
+TI_1_2;Control;Tienshan;2
+TI_1_3;Control;Tienshan;3
+TI_2_1;Treatment;Tienshan;1
+TI_2_2;Treatment;Tienshan;2
+TI_2_3;Treatment;Tienshan;3
